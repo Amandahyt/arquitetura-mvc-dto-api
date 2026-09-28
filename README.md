@@ -20,7 +20,7 @@ A aplicação será iniciada em:
 
 http://localhost:8080
 
-## Cadastro de usuário
+## Cadastro de usuário POST e consulta via GET
 
 Endpoint:
 
