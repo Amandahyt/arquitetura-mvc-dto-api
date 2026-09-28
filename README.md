@@ -26,6 +26,8 @@ Endpoint:
 
 POST /usuarios
 
+GET /usuarios
+
 Content-Type:
 
 application/json
