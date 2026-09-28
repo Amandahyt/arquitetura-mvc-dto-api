@@ -42,20 +42,3 @@ Exemplo:
 
 GET /usuarios
 
-## Banco H2
-
-Console:
-
-http://localhost:8080/h2-console
-
-JDBC URL:
-
-jdbc:h2:mem:usuarios
-
-Usuário:
-
-sa
-
-Senha:
-
-deixe em branco
